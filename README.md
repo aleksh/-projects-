@@ -2,4 +2,4 @@
 
 https://easy-design.fun/  - it's online image editor,  (React, TypeScript, PixiJs, tailwind)
 
-https://image-search-public.vercel.app/  - pixabay image search -  [Source code](https://github.com/aleksh/image-search-public)
+https://image-search-public.vercel.app/  - pixabay image search 
